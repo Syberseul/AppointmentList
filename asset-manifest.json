@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/AppointmentList/static/js/main.265015d3.chunk.js",
+    "main.js.map": "/AppointmentList/static/js/main.265015d3.chunk.js.map",
+    "runtime-main.js": "/AppointmentList/static/js/runtime-main.580374a7.js",
+    "runtime-main.js.map": "/AppointmentList/static/js/runtime-main.580374a7.js.map",
+    "static/js/2.2aa3ce74.chunk.js": "/AppointmentList/static/js/2.2aa3ce74.chunk.js",
+    "static/js/2.2aa3ce74.chunk.js.map": "/AppointmentList/static/js/2.2aa3ce74.chunk.js.map",
+    "index.html": "/AppointmentList/index.html",
+    "static/js/2.2aa3ce74.chunk.js.LICENSE.txt": "/AppointmentList/static/js/2.2aa3ce74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580374a7.js",
+    "static/js/2.2aa3ce74.chunk.js",
+    "static/js/main.265015d3.chunk.js"
+  ]
+}
